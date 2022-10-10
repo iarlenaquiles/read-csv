@@ -8,6 +8,8 @@
     "start": "node --experimental-modules index.mjs "
   },
   "dependencies": {
-    "neat-csv": "^7.0.0"
+    "json2csv": "^5.0.7",
+    "neat-csv": "^7.0.0",
+    "uuid": "^9.0.0"
   }
 }
